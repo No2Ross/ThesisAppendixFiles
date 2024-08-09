@@ -6,15 +6,15 @@ The following repository contains all the appendix files for the PhD thesis: App
 
 Appendix file 1
 
-TrAGEDy DE results across four windows of comparison for the TrAGEDy aligned WT vs ZC3H20 KO _T. brucei_ trajectories. Significant DE genes are identified as those with an absolute Log<sub>2</sub>FC of 0.5, bonferroni adjusted p-value less than 0.05 and were expressed in at least 10\% of cells in one of the conditions in the window.
+TrAGEDy DE results across four windows of comparison for the TrAGEDy aligned WT vs ZC3H20 KO _T. brucei_ trajectories. Significant DE genes are identified as those with an absolute Log<sub>2</sub>FC > 0.5, bonferroni adjusted p-value less than 0.05 and were expressed in at least 10\% of cells in one of the conditions in the window.
 
 Appendix file 2
 
-TradeSeq DE results across four knots of comparisons for Seurat integrated WT vs ZC3H20 KO _T. brucei_ trajectories. Significant DE genes are identified as those with an absolute Log<sub>2</sub>FC of 0.5, bonferroni adjusted p-value less than 0.05 and were expressed in at least 10\% of cells in one of the conditions in the knots.
+TradeSeq DE results across four knots of comparisons for Seurat integrated WT vs ZC3H20 KO _T. brucei_ trajectories. Significant DE genes are identified as those with an absolute Log<sub>2</sub>FC > 0.5, bonferroni adjusted p-value less than 0.05 and were expressed in at least 10\% of cells in one of the conditions in the knots.
 
 Appendix file 3
 
-Seurat DE results across four clusters of comparisons for Seurat integrated WT vs ZC3H20 KO _T. brucei_ trajectories. Significant DE genes are identified as those with an absolute Log<sub>2</sub>FC of 0.5, bonferroni adjusted p-value less than 0.05 and were expressed in at least 10\% of cells in one of the conditions in the clusters.
+Seurat DE results across four clusters of comparisons for Seurat integrated WT vs ZC3H20 KO _T. brucei_ trajectories. Significant DE genes are identified as those with an absolute Log<sub>2</sub>FC > 0.5, bonferroni adjusted p-value less than 0.05 and were expressed in at least 10\% of cells in one of the conditions in the clusters.
 
 Appendix file 4
 
