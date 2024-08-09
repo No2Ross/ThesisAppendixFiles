@@ -54,7 +54,7 @@ Significant (Benjamini p-value less than 0.05) GO terms, generated using cluster
 
 Appendix file 13
 
-Genes IDs and associated Log<sub>2<sub>FC for the heatmap in figure [insert*]
+Genes IDs and associated Log<sub>2<\sub>FC for the heatmap in figure [insert*]
 
 
 #Chapter 2 appendix files
