@@ -1,4 +1,4 @@
-# Appendix files for Ross Laidlaw's PhD thesis 
+# Appendix file information
 
 The following repository contains all the appendix files for the PhD thesis: Applications of scRNA-seq to capture Trypanosomatid life cycle stage transitions and heterogeneity.
 
