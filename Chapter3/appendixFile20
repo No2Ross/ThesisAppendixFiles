@@ -1,0 +1,121 @@
+########################################
+# Program: needle
+# Rundate: Mon  5 Aug 2024 17:24:53
+# Commandline: needle
+#    -auto
+#    -stdout
+#    -asequence emboss_needle-I20240805-172449-0794-61963574-p1m.asequence
+#    -bsequence emboss_needle-I20240805-172449-0794-61963574-p1m.bsequence
+#    -datafile EDNAFULL
+#    -gapopen 10.0
+#    -gapextend 0.5
+#    -endopen 10.0
+#    -endextend 0.5
+#    -aformat3 pair
+#    -snucleotide1
+#    -snucleotide2
+# Align_format: pair
+# Report_file: stdout
+########################################
+
+#=======================================
+#
+# Aligned_sequences: 2
+# 1: RBP6_427
+# 2: HDK430
+# Matrix: EDNAFULL
+# Gap_penalty: 10.0
+# Extend_penalty: 0.5
+#
+# Length: 957
+# Identity:     368/957 (38.5%)
+# Similarity:   368/957 (38.5%)
+# Gaps:         577/957 (60.3%)
+# Score: 1781.0
+# 
+#
+#=======================================
+
+RBP6_427           1 --------------------------------------------------      0
+                                                                       
+HDK430             1 TTGTATTGAGATATATTTTTTATAGGAAAGATTAAGCAGTAAAAGTAGCG     50
+
+RBP6_427           1 --------------------------------------------------      0
+                                                                       
+HDK430            51 CGTACGGCGTACGGTTCCCTATCAGTGATAGAGATCTCCCTATCAGTGAT    100
+
+RBP6_427           1 --------------------------------------------------      0
+                                                                       
+HDK430           101 AGAGATCCCTGAGTACTGAGTATAACATGTTCTCGTCCCGGGCTGCACGC    150
+
+RBP6_427           1 --------------------------------------------------      0
+                                                                       
+HDK430           151 GCCTTCGAGTATTTTTTCCTCTTCCCCATCTTTTTCAACTTGAAGACTTC    200
+
+RBP6_427           1 -------------------------------ATGTTCTACCCCAACAGCC     19
+                                                    |||||.|||.|||||||||
+HDK430           201 AATTACACCACAAAGTAGAATTCTCAAGCTTATGTTGTACTCCAACAGCC    250
+
+RBP6_427          20 CGCAGACCTCGCCACAGCTGACGCAAATTCCATACGGGCAGCAATATGCC     69
+                     ||||||||||||||||||||||||||||||||||||||||||||||||||
+HDK430           251 CGCAGACCTCGCCACAGCTGACGCAAATTCCATACGGGCAGCAATATGCC    300
+
+RBP6_427          70 ATGATGCAACGGCAGATTCAACAGCCGTATCATCCCTTTGCTACTACGGA    119
+                     ||||||||||||||||||||||||||||||||||||||||||||||||||
+HDK430           301 ATGATGCAACGGCAGATTCAACAGCCGTATCATCCCTTTGCTACTACGGA    350
+
+RBP6_427         120 GCCTCAAGCTCGATTATATCCGTATCATTACCAGGGCCCCATTCAACAGG    169
+                     ||.|||||||||||||||||.|||||||||.||||||.||||||||||||
+HDK430           351 GCGTCAAGCTCGATTATATCTGTATCATTATCAGGGCGCCATTCAACAGG    400
+
+RBP6_427         170 AACAGGGTGGTTTCATCACTCAACAATCCACAGCTGCCAGTCCGCAATAT    219
+                     ||||||||||||||||||||||||||||||||||||||||||||||||||
+HDK430           401 AACAGGGTGGTTTCATCACTCAACAATCCACAGCTGCCAGTCCGCAATAT    450
+
+RBP6_427         220 GTTCAAATGCGTGTAACACCTGTGGATCAAAGTATTATGAGCGGCTACCC    269
+                     |||||||.||||||||||||||||||||||||||||||||||||.|||||
+HDK430           451 GTTCAAAAGCGTGTAACACCTGTGGATCAAAGTATTATGAGCGGGTACCC    500
+
+RBP6_427         270 CAATCAAACGGCAAATGGTTCCTCCTCTTCTTCCTTCAATTATAATATTC    319
+                     |||||||||||||||.|||||.|||||||.||||||||||||||||||||
+HDK430           501 CAATCAAACGGCAAAAGGTTCTTCCTCTTTTTCCTTCAATTATAATATTC    550
+
+RBP6_427         320 ATCCGCAACAACAACAACAACAACAACAACAGCAGCAGCAGCAGTTGAGA    369
+                     |||||   ||||||||||||||||||||||||||||||||||||.|||||
+HDK430           551 ATCCG---CAACAACAACAACAACAACAACAGCAGCAGCAGCAGCTGAGA    597
+
+RBP6_427         370 CATCATGCCATGCCCGTTGGAAGTGTGCCTCTGCAAGATGATCGTTATCG    419
+                     ||||||||||||||                                    
+HDK430           598 CATCATGCCATGCC------------------------------------    611
+
+RBP6_427         420 CAAGCAATTAATTGTAAATTATCTCGCCCCTGATGTGACAAGTACGGACC    469
+                                                                       
+HDK430           612 --------------------------------------------------    611
+
+RBP6_427         470 TTCATGAGCTTTTCTCCCGCTTTGGAGAACTTGATGGGGCGCGAATTATT    519
+                                                                       
+HDK430           612 --------------------------------------------------    611
+
+RBP6_427         520 TACGACAAGCAAACCAATATGTCGAAGGGTTATGGTTTTGTATATTTTTG    569
+                                                                       
+HDK430           612 --------------------------------------------------    611
+
+RBP6_427         570 CCATGCGGAAGATGCGAAGGAGGCTGTGGAGCGAATGAGTGGTTACGAAT    619
+                                                                       
+HDK430           612 --------------------------------------------------    611
+
+RBP6_427         620 TCCATGGCAAATGGCTTAAAGTTGGTTACTCCACAAATCCATTAAATATT    669
+                                                                       
+HDK430           612 --------------------------------------------------    611
+
+RBP6_427         670 GTGCCCAGTAACAGTTCCCCATACGTTCATGCGGGTTCCCGCGGAGCCGC    719
+                                                                       
+HDK430           612 --------------------------------------------------    611
+
+RBP6_427         720 TGGTTGA    726
+                            
+HDK430           612 -------    611
+
+
+#---------------------------------------
+#---------------------------------------
