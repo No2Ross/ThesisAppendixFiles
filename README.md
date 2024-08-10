@@ -120,11 +120,11 @@ Table showing the enrichment of metabolic processes (as derived from KEGG and Me
 
 Appendix file 28 
 
-Table showing the significant DE genes (bonferroni adjusted p-value < 0.05, Log<sub>2</sub>FC > 0.5 and were expressed in at least 10\% of cells in the cluster being compared) between the early PCFs contained within the RBP6 overexpression dataset and _in vitro_ cultured PCFs, taken from Briggs and colleagues (\cite{briggs2023}).
+Table showing the significant DE genes (bonferroni adjusted p-value < 0.05, Log<sub>2</sub>FC > 0.5 and were expressed in at least 10\% of cells in the cluster being compared) between the early PCFs contained within the RBP6 overexpression dataset and _in vitro_ cultured PCFs, taken from Briggs and colleagues (Briggs et al., 2023).
 
 Appendix file 29 
 
-Table showing the GO terms (calculated using TriTrypDB) derived from the the DE genes which were higher expressed in the early PCFs contained within the RBP6 overexpression dataset compared with \emph{in vitro} PCFs.
+Table showing the GO terms (calculated using TriTrypDB) derived from the the DE genes which were higher expressed in the early PCFs contained within the RBP6 overexpression dataset compared with _in vitro_ PCFs.
 
 Appendix file 30 
 
@@ -136,5 +136,5 @@ Table showing the enrichment of metabolic processes (as derived from KEGG and Me
 
 Appendix file 32 
 
-Table showing the enrichment of metabolic processes (as derived from KEGG and Metacyc) in the DE genes which were higher expressed in the _in vitro_ PCFs compared with the early PCFs contained within the RBP6 overexpression dataset .
+Table showing the enrichment of metabolic processes (as derived from KEGG and Metacyc) in the DE genes which were higher expressed in the _in vitro_ PCFs compared with the early PCFs contained within the RBP6 overexpression dataset.
 
